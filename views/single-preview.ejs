@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	  <title><%= imageData[index].title%></title>
+	  <link rel='stylesheet' href='/stylesheets/style.css'/>
+	  <script 
+	     src="//code.jquery.com/jquery-3.1.1.min.js"
+	     integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" 
+	     crossorigin="anonymous">
+	  </script>	
+	  <script> window.jQuery || document.write('<script src="/javascripts/lib/jquery-3.1.1.min.js"><\/script>');</script>
+	    <style>
+	      ol{ list-style: decimal; }
+	    </style>
+	</head>
+	
+	<body>
+	  <div id = "preview" class = "single-preview">                                                                          
+            <h4><center> <%= imageData[index].title%></center> </h4>	   
+	    <center><video width="720" height="405" controls>
+		<source src="<%= videoData[index].mediafiles[2].video_download_url%>" type="video/mp4">
+		  Your browser does not support the video tag.
+	      </video></center> 
+	    
+            <center> <%= imageData[index].long_description%> </center>
+            <button id = "close" class = "close-button"> &#215; </button> 
+	    <a id = "prev" class = "post-nav prev">
+	      <span class="icon-left"> </span>
+	    </a>
+	    
+	    <a id = "next" class = "post-nav next"> 
+	      <span class="icon-right"> </span>
+	    </a>
+          </div>
+	  
+	  <script>
+	    $("#close").click(function(){                                                                                           
+               $("#preview").hide(1000);
+            });
+
+	    var x = <%= index-1 %>;
+	    //var str = <%= Path %>;
+	    $("#prev").click(function(){
+      	       var subUrl = 'http://162.243.167.50:3003/local-productions';
+	    });
+
+	    $("#next").click(function(){
+	       alert(x);
+	    });
+	  </script>
+	</body>
+</html>

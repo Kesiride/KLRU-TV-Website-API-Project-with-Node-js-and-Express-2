@@ -1,0 +1,950 @@
+[
+    {
+        "_links": {
+            "about": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/users/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts"
+                }
+            ],
+            "https://api.w.org/attachment": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/media?parent=45553"
+                }
+            ],
+            "https://api.w.org/featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/media/12831"
+                }
+            ],
+            "https://api.w.org/term": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/categories?post=45553",
+                    "taxonomy": "category"
+                },
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/tags?post=45553",
+                    "taxonomy": "post_tag"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/comments?post=45553"
+                }
+            ],
+            "self": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45553"
+                }
+            ],
+            "version-history": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45553/revisions"
+                }
+            ]
+        },
+        "author": 40,
+        "categories": [
+            55
+        ],
+        "comment_status": "closed",
+        "content": {
+            "rendered": "<p>Clint Eastwood, Norman Lear and The Man With The Golden Arm! Cath them all on Q Night at the Movies.</p>\n<p><a href=\"http://www.klru.org/schedule/program/21843/\" target=\"_blank\"><strong>Science Goes to the Movies</strong></a> &#8216;<a href=\"http://www.klru.org/schedule/episode/274684/\" target=\"_blank\">American Sniper and Grad Torino</a>&#8216; &#8211; <em>airs at 7 pm<br />\n</em>Co-hosts Faith Salie and Dr. Heather Berlin are joined by Gerard Ilaria, from Weill Cornell Medical Center&#8217;s Headstrong Project, and Derek Coy, a U.S. Marine Corp veteran, to discuss post-traumatic stress disorder (PTSD) as it relates to the Clint Eastwood-directed films, American Sniper and Gran Torino.</p>\n<p><strong><a href=\"http://www.klru.org/program/on-story/\" target=\"_blank\">On Story</a></strong> &#8216;<a href=\"http://www.klru.org/episode/program-tax/norman-lear-a-retrospective/\" target=\"_blank\">Norman Lear &#8211; A Retrospective</a>&#8216; &#8211; <em>airs at 7:30 pm<br />\n</em>Perhaps one of the most influential contributors to the landscape of situational comedies and progressive writing in Hollywood, Norman Lear transformed a genre known for play-it-safe humor into a platform for how Americans experience social issues. In this week\u2019s On Story, Lear remembers a few of his favorite episodes and how he created some of the most beloved characters in the history of tv.</p>\n<p><strong><a href=\"http://www.klru.org/schedule/program/21316/\" target=\"_blank\">Corinth Film Collection</a></strong> &#8216;<a href=\"http://www.klru.org/schedule/episode/270950/\" target=\"_blank\">The Man With The Golden Arm</a>&#8216; &#8211; <em>airs at 8 pm<br />\n</em>Frankie Machine (Frank Sinatra) is a skilled card dealer and one-time heroin addict. When he returns home from jail, he struggles to find a new livelihood and to avoid slipping back into addiction.</p>\n<p>&nbsp;</p>\n"
+        },
+        "date": "2016-08-10T16:06:56",
+        "date_gmt": "2016-08-10T21:06:56",
+        "excerpt": {
+            "rendered": "<p>Clint Eastwood, Norman Lear and The Man With The Golden Arm! Cath them all on Q Night at the Movies. Science Goes to the Movies &#8216;American Sniper and Grad Torino&#8216; &#8211; airs at 7 pm Co-hosts Faith Salie and Dr. &hellip; <a href=\"http://www.klru.org/blog/2016/08/q-night-at-the-movies-813/\">more <span class=\"meta-nav\">&rarr;</span></a></p>\n"
+        },
+        "featured_media": 12831,
+        "format": "standard",
+        "guid": {
+            "rendered": "http://www.klru.org/?p=45553"
+        },
+        "id": 45553,
+        "link": "http://www.klru.org/blog/2016/08/q-night-at-the-movies-813/",
+        "modified": "2016-08-05T16:07:29",
+        "modified_gmt": "2016-08-05T21:07:29",
+        "ping_status": "closed",
+        "slug": "q-night-at-the-movies-813",
+        "sticky": false,
+        "tags": [
+            290,
+            2745,
+            3080,
+            3306
+        ],
+        "title": {
+            "rendered": "Q Night at the Movies 8/13"
+        },
+        "type": "post"
+    },
+    {
+        "_links": {
+            "about": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/users/42"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts"
+                }
+            ],
+            "https://api.w.org/attachment": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/media?parent=46497"
+                }
+            ],
+            "https://api.w.org/featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/media/46545"
+                }
+            ],
+            "https://api.w.org/term": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/categories?post=46497",
+                    "taxonomy": "category"
+                },
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/tags?post=46497",
+                    "taxonomy": "post_tag"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/comments?post=46497"
+                }
+            ],
+            "self": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/46497"
+                }
+            ],
+            "version-history": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/46497/revisions"
+                }
+            ]
+        },
+        "author": 42,
+        "categories": [
+            2859
+        ],
+        "comment_status": "closed",
+        "content": {
+            "rendered": "<p>Bacteria is all around us, on top of us, and even inside us, but did you know some of that bacteria has been passed down to us for millions of years?</p>\n<p>The bacteria inside our guts has been there since before we were born\u00a0and has been\u00a0coevolving with hominids for millions of years, according to a <a href=\"http://science.sciencemag.org/content/353/6297/380\" target=\"_blank\">new study published in Science</a>.</p>\n<p>We, along with apes, have\u00a0a micro biome comprised of a collection of bacteria that&#8217;s living inside our guts, but it has long been unclear whether these microbes are coming from our environment or our ancestors.</p>\n<p><strong>The Research</strong></p>\n<p>To answer that question, a team of international scientists began\u00a0to study\u00a0poop. They isolated bacteria from fecal matter that came from chimpanzees in Tanzania, bonobos in\u00a0the Democratic Republic of the Congo, gorillas in Cameroon, and humans from Connecticut.</p>\n<p>Science <a href=\"http://www.sciencemag.org/news/2016/07/microbes-our-guts-have-been-us-millions-years\" target=\"_blank\">reports</a> that from the\u00a0samples they collected they compared the DNA sequences of a single rapidly evolving gene\u00a0common in the gut of apes, including humans. The DNA gene sequences were then sorted out into family trees.</p>\n<p><strong>Conclusions</strong></p>\n<p>The study found that two of the three major gut bacteria in apes and humans arose from an ancient bacteria that lived in\u00a0the guts of our ancestors, suggesting that evolution plays a bigger role than was previously thought in the makeup of our intestinal micro biomes.</p>\n<p>&#8220;Gut bacteria therefore are not simply acquired from the environment, but have coevolved for millions of years with hominids to help shape our immune systems and development,&#8221; the <a href=\"http://science.sciencemag.org/content/353/6297/380\" target=\"_blank\">study says</a>.</p>\n<p>To break it down, Science\u00a0<a href=\"http://www.sciencemag.org/news/2016/07/microbes-our-guts-have-been-us-millions-years\" target=\"_blank\">says</a> that &#8220;as the different species of apes diverged from this ancestor,\u00a0their gut bacteria also split into new strains, and coevolved in parallel&#8230;to adapt to differences in the diets, habitats, and diseases in the gastrointestinal tracts of their hosts.&#8221;</p>\n<p>It turns out that the bacteria in our guts has existed\u00a0over a span of more than 15 million years of evolution and will continue to be passed on.</p>\n<p><em>To learn more about this study, you can <a href=\"http://www.sciencemag.org/news/2016/07/microbes-our-guts-have-been-us-millions-years\" target=\"_blank\">read the article from Science</a>.</em></p>\n<div id=\"content-block-markup\"></div>\n"
+        },
+        "date": "2016-08-10T11:12:49",
+        "date_gmt": "2016-08-10T16:12:49",
+        "excerpt": {
+            "rendered": "<p>A new study that the bacteria in our guts has existed for over millions of years and is not just simply acquired by the environment, but inherited.</p>\n"
+        },
+        "featured_media": 46545,
+        "format": "standard",
+        "guid": {
+            "rendered": "http://www.klru.org/?p=46497"
+        },
+        "id": 46497,
+        "link": "http://www.klru.org/blog/2016/08/science-wednesday-bacteria-in-our-gut-has-been-there-since-before-we-were-born/",
+        "modified": "2016-08-10T11:23:04",
+        "modified_gmt": "2016-08-10T16:23:04",
+        "ping_status": "closed",
+        "slug": "science-wednesday-bacteria-in-our-gut-has-been-there-since-before-we-were-born",
+        "sticky": false,
+        "tags": [
+            2953
+        ],
+        "title": {
+            "rendered": "Science Wednesday: Bacteria in our gut has been there since before we were born"
+        },
+        "type": "post"
+    },
+    {
+        "_links": {
+            "about": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/users/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts"
+                }
+            ],
+            "https://api.w.org/attachment": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/media?parent=43367"
+                }
+            ],
+            "https://api.w.org/featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/media/44061"
+                }
+            ],
+            "https://api.w.org/term": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/categories?post=43367",
+                    "taxonomy": "category"
+                },
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/tags?post=43367",
+                    "taxonomy": "post_tag"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/comments?post=43367"
+                }
+            ],
+            "self": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/43367"
+                }
+            ],
+            "version-history": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/43367/revisions"
+                }
+            ]
+        },
+        "author": 40,
+        "categories": [
+            2372,
+            2859
+        ],
+        "comment_status": "closed",
+        "content": {
+            "rendered": "<p>Science doesn&#8217;t come easy to some\u00a0individuals\u2014 those usually turn into English, philosophy or communication studies majors. Though, you may still need to register for that dreaded Astronomy course you&#8217;ve been putting off until your senior year. This week&#8217;s picks from <a href=\"https://www.youtube.com/user/pbsdigitalstudios\" target=\"_blank\"><strong>PBS Digital Studios</strong></a> are here to help you stop seeing stars when it comes to your science homework.</p>\n<p><a href=\"https://www.youtube.com/watch?v=ztninkgZ0ws\" target=\"_blank\">Is an Ice Age Coming?</a> &#8211; <strong><a href=\"https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g\">PBS Space Time</a></strong></p>\n<p>In a world where you can&#8217;t get away from a viral picture of a polar bear and its cub floating on a melted piece of ice, studies suggest that the current &#8216;warm period&#8217; may be coming to an end. Sure, we&#8217;re in a brief interglacial phase, a summery-stretch which causes the glaciers to retreat, but these interglacial periods are short lived\u2014 so\u00a0you might want to stock up on some parkas. Is an Ice Age really coming? Watch the episode to find out!</p>\n<p><iframe width=\"584\" height=\"329\" src=\"https://www.youtube.com/embed/ztninkgZ0ws?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe><br />\n<a href=\"https://www.youtube.com/watch?v=xZTb6sfHEX8\" target=\"_blank\">Will the Universe Expand Forever?</a> &#8211; PBS Space Time</p>\n<p>Dump all information regarding how large the Universe is out of your mind because scientists are currently unaware of its size. Truthfully, the Universe may be finite or infinite\u2014strange, right? Even stranger, the expansion of the Universe will be dominated by a mysterious influence: dark energy. Yeah, it&#8217;s crazy.</p>\n<p><iframe width=\"584\" height=\"329\" src=\"https://www.youtube.com/embed/xZTb6sfHEX8?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></p>\n<p><a href=\"https://www.youtube.com/watch?v=Aj6Kc1mvsdo\" target=\"_blank\">Why is the Earth Round and the Milky Way Flat?</a> &#8211; PBS Space Time</p>\n<p>Our Universe creates some pretty cool things, right? But why do the planets, the stars and galaxies take on different shapes? They&#8217;re all held together by gravity, so how do they decide what shape to be? This episode of Space Time uncovers the two key principles behind these questions!</p>\n<p><iframe width=\"584\" height=\"329\" src=\"https://www.youtube.com/embed/Aj6Kc1mvsdo?feature=oembed\" frameborder=\"0\" allowfullscreen></iframe></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n"
+        },
+        "date": "2016-08-09T13:21:22",
+        "date_gmt": "2016-08-09T18:21:22",
+        "excerpt": {
+            "rendered": "<p>Stop seeing stars when it comes to your science homework.</p>\n"
+        },
+        "featured_media": 44061,
+        "format": "standard",
+        "guid": {
+            "rendered": "http://www.klru.org/?p=43367"
+        },
+        "id": 43367,
+        "link": "http://www.klru.org/blog/2016/08/winter-is-coming-the-universe-may-be-expanding-and-earths-shape-our-picks-from-pbs-digital-studios/",
+        "modified": "2016-06-16T13:22:42",
+        "modified_gmt": "2016-06-16T18:22:42",
+        "ping_status": "closed",
+        "slug": "winter-is-coming-the-universe-may-be-expanding-and-earths-shape-our-picks-from-pbs-digital-studios",
+        "sticky": false,
+        "tags": [
+            335,
+            2546,
+            2953,
+            3148,
+            3149,
+            3150,
+            3151,
+            3152,
+            3153,
+            3154,
+            3155,
+            3156
+        ],
+        "title": {
+            "rendered": "Winter is coming, the universe may be expanding and Earth&#8217;s shape: Our picks from PBS Digital Studios"
+        },
+        "type": "post"
+    },
+    {
+        "_links": {
+            "about": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/users/42"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts"
+                }
+            ],
+            "https://api.w.org/attachment": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/media?parent=46463"
+                }
+            ],
+            "https://api.w.org/featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/media/44604"
+                }
+            ],
+            "https://api.w.org/term": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/categories?post=46463",
+                    "taxonomy": "category"
+                },
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/tags?post=46463",
+                    "taxonomy": "post_tag"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/comments?post=46463"
+                }
+            ],
+            "self": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/46463"
+                }
+            ],
+            "version-history": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/46463/revisions"
+                }
+            ]
+        },
+        "author": 42,
+        "categories": [
+            7
+        ],
+        "comment_status": "closed",
+        "content": {
+            "rendered": "<p>Tensions are running high as The Great British Baking Show is about to crown a winner for Season 3. With only three contestants remaining, it&#8217;s finals time.</p>\n<p>For the final signature challenge, bakers must make 16 iced buns, in two varieties in just three hours.</p>\n<p>As part of the technical challenge, bakers are going to be facing\u00a0Paul Hollywood&#8217;s raspberry-flavored mille-feuille to test their skills in pastry making, something they have all struggled with. Paul Hollywood explains:</p>\n<p><iframe src=\"http://player.pbs.org/viralplayer/2365816378\" width=\"512\" height=\"376\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" seamless=\"\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>For the\u00a0final Showstopper, the bakers will have four hours to make classic British cakes in\u00a0a multi-layered presentation.</p>\n<p>Who do you think will be honored as this season&#8217;s winner?</p>\n<p>Watch the preview:</p>\n<p><iframe style=\"border: none; overflow: hidden;\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpbs%2Fvideos%2F10153841954347169%2F&amp;show_text=0&amp;width=560\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>The Final airs Friday, Aug. 12 at 8 p.m. on KLRU.</p>\n"
+        },
+        "date": "2016-08-08T16:42:52",
+        "date_gmt": "2016-08-08T21:42:52",
+        "excerpt": {
+            "rendered": "<p>It&#8217;s time for the Season 3 finale of The Great British Baking Show. Who will be crowned the winner? Tune in on 8/17.</p>\n"
+        },
+        "featured_media": 44604,
+        "format": "standard",
+        "guid": {
+            "rendered": "http://www.klru.org/?p=46463"
+        },
+        "id": 46463,
+        "link": "http://www.klru.org/blog/2016/08/its-time-for-the-season-3-finale-of-the-great-british-baking-show-817/",
+        "modified": "2016-08-11T14:52:20",
+        "modified_gmt": "2016-08-11T19:52:20",
+        "ping_status": "closed",
+        "slug": "its-time-for-the-season-3-finale-of-the-great-british-baking-show-817",
+        "sticky": false,
+        "tags": [
+            3372
+        ],
+        "title": {
+            "rendered": "It&#8217;s time for the Season 3 finale of The Great British Baking Show 8/12"
+        },
+        "type": "post"
+    },
+    {
+        "_links": {
+            "about": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/users/42"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts"
+                }
+            ],
+            "https://api.w.org/attachment": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/media?parent=46183"
+                }
+            ],
+            "https://api.w.org/featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/media/46447"
+                }
+            ],
+            "https://api.w.org/term": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/categories?post=46183",
+                    "taxonomy": "category"
+                },
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/tags?post=46183",
+                    "taxonomy": "post_tag"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/comments?post=46183"
+                }
+            ],
+            "self": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/46183"
+                }
+            ],
+            "version-history": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/46183/revisions"
+                }
+            ]
+        },
+        "author": 42,
+        "categories": [
+            7
+        ],
+        "comment_status": "closed",
+        "content": {
+            "rendered": "<p>Mercy Street has started\u00a0to tease us with new content from the upcoming season, that will grace our screens in 2017. We&#8217;ve gathered a few of our online favorites from Mercy Street for you to check out.</p>\n<p><strong>First Look</strong></p>\n<p>In case you missed it, Mercy Street released this first look of Season 2 and it contains a lot of great details from your favorite cast members. Watch it:</p>\n<p><iframe src=\"http://player.pbs.org/viralplayer/2365811442\" width=\"512\" height=\"376\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" seamless=\"\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><strong>Make Your Own Civil War Era Tintype Portrait</strong></p>\n<p>This <a href=\"http://www.pbs.org/mercy-street/tintype-me/\" target=\"_blank\">awesome online app</a> has been around since the first season, but it&#8217;s still as fun to do by yourself or with friends. It&#8217;s a good way to prepare for the new season and it makes for a great profile picture.</p>\n<p><strong>Secrets From The Mercy Street Set</strong></p>\n<p>If you didn&#8217;t know, Mercy Street has a blog called Mercy Street Revealed. They post great behind-the-scenes content so you can learn more about the production process.</p>\n<p>Here are some\u00a0posts they&#8217;ve uploaded on Season 2.<br />\n&#8211;<a href=\"http://www.pbs.org/mercy-street/blogs/mercy-street-revealed/season-2-behind-the-scenes-a-mercy-street-fans-set-visit/\" target=\"_blank\">A Behind-the-Scenes Look at the Making of Season 2</a><br />\n&#8211;<a href=\"http://www.pbs.org/mercy-street/blogs/mercy-street-revealed/a-day-in-the-life-thoughts-on-the-last-day-of-filming-season-2/\" target=\"_blank\">Season 2&#8242; Last Day of Filming</a><br />\n&#8211;<a href=\"http://www.pbs.org/mercy-street/blogs/mercy-street-revealed/prepping-for-season-2-production-designer-stephen-marshs-notes-from-the-field/\" target=\"_blank\">Prepping for Season 2: A Production Designer&#8217;s Notes From the Field</a></p>\n<p><strong>Tweets from TCA16</strong></p>\n<p>PBS was at this year&#8217;s Television Critics Press Tour to talk about the upcoming season of Mercy Street. Here are some of the highlights from Twitter on what you can expect:</p>\n<blockquote class=\"twitter-tweet\" data-lang=\"en\">\n<p dir=\"ltr\" lang=\"en\">Love triangles, heightened romance and relationships are teased for Season 2 of <a href=\"https://twitter.com/hashtag/MercyStreetPBS?src=hash\">#MercyStreetPBS</a>. <a href=\"https://twitter.com/hashtag/TCA16?src=hash\">#TCA16</a></p>\n<p>\u2014 Channel Guide (@ChannelGuide) <a href=\"https://twitter.com/ChannelGuide/status/759104781868597249\">July 29, 2016</a></p></blockquote>\n<p><script src=\"//platform.twitter.com/widgets.js\" async=\"\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p>\n.<a href=\"https://twitter.com/patinamiller\">@patinamiller</a>&#8216;s <a href=\"https://twitter.com/hashtag/MercyStreetPBS?src=hash\">#MercyStreetPBS</a> character Charlotte is based on multiple historical figures, including Harriet Jacobs &amp; more. <a href=\"https://twitter.com/hashtag/TCA16?src=hash\">#TCA16</a></p>\n<p>\u2014 PBS PressRoom (@PBSPressRoom) <a href=\"https://twitter.com/PBSPressRoom/status/759107705718136832\">July 29, 2016</a>\n</p></blockquote>\n<p><script src=\"//platform.twitter.com/widgets.js\" async=\"\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" data-lang=\"en\">\n<p dir=\"ltr\" lang=\"en\">PBS&#8217; <a href=\"https://twitter.com/hashtag/MercyStreet?src=hash\">#MercyStreet</a> portrays struggle for more than freedom from slavery- it shows how women and former slaves want equal opportunities <a href=\"https://twitter.com/hashtag/TCA16?src=hash\">#TCA16</a></p>\n<p>\u2014 Tiffany Vogt (@TVWatchtower) <a href=\"https://twitter.com/TVWatchtower/status/759109512024367104\">July 29, 2016</a></p></blockquote>\n<p>It was also Josh Radnor&#8217;s birthday that day!</p>\n<p><script src=\"//platform.twitter.com/widgets.js\" async=\"\" charset=\"utf-8\"></script></p>\n<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p>\nHappy birthday <a href=\"https://twitter.com/JoshRadnor\">@JoshRadnor</a>!! <a href=\"https://twitter.com/hashtag/MercyStreetPBS?src=hash\">#MercyStreetPBS</a><a href=\"https://twitter.com/hashtag/TCA16?src=hash\">#TCA16</a><a href=\"https://t.co/aKXQhqCfXZ\">pic.twitter.com/aKXQhqCfXZ</a></p>\n<p>\u2014 Lone Wolf Media (@LoneWolf_Media) <a href=\"https://twitter.com/LoneWolf_Media/status/759143510272606208\">July 29, 2016</a>\n</p></blockquote>\n<p><strong><br />\n Photos from Behind-the-Scenes</strong></p>\n<p>We&#8217;ll leave you with\u00a0some <a href=\"http://Photos from Behind-the-Scenes Here are some behind-the-scenes photos from the set of Mercy Street.\" target=\"_blank\">behind-the-scenes photos</a> from the set of Mercy Street.</p>\n<p><script src=\"//platform.twitter.com/widgets.js\" async=\"\" charset=\"utf-8\"></script></p>\n"
+        },
+        "date": "2016-08-08T12:13:32",
+        "date_gmt": "2016-08-08T17:13:32",
+        "excerpt": {
+            "rendered": "<p>Mercy Street has started to tease us with new content coming in 2017 so we&#8217;ve gathered a few of our online favorites for you to check out.</p>\n"
+        },
+        "featured_media": 46447,
+        "format": "standard",
+        "guid": {
+            "rendered": "http://www.klru.org/?p=46183"
+        },
+        "id": 46183,
+        "link": "http://www.klru.org/blog/2016/08/here-are-some-of-our-online-favorites-from-mercy-street/",
+        "modified": "2016-08-08T12:16:00",
+        "modified_gmt": "2016-08-08T17:16:00",
+        "ping_status": "closed",
+        "slug": "here-are-some-of-our-online-favorites-from-mercy-street",
+        "sticky": false,
+        "tags": [
+            2670
+        ],
+        "title": {
+            "rendered": "Here are some of our online favorites from Mercy Street, Season 2"
+        },
+        "type": "post"
+    },
+    {
+        "_links": {
+            "about": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/users/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts"
+                }
+            ],
+            "https://api.w.org/attachment": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/media?parent=45995"
+                }
+            ],
+            "https://api.w.org/featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/media/17395"
+                }
+            ],
+            "https://api.w.org/term": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/categories?post=45995",
+                    "taxonomy": "category"
+                },
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/tags?post=45995",
+                    "taxonomy": "post_tag"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/comments?post=45995"
+                }
+            ],
+            "self": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45995"
+                }
+            ],
+            "version-history": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45995/revisions"
+                }
+            ]
+        },
+        "author": 40,
+        "categories": [
+            7,
+            30,
+            38
+        ],
+        "comment_status": "closed",
+        "content": {
+            "rendered": "<p>Demonstrating that the everyday and mundane are often anything but, the engrossing documentary <strong><a href=\"http://www.klru.org/schedule/program/21216/\" target=\"_blank\">Everyday Miracles</a></strong> reveals how raw materials are transformed into the objects that make modern life more comfortable.</p>\n<p>Over the course of this two-part program, host Mark Miodownik reveals the scientific discoveries and fascinating industrial processes behind everything from the cars we drive to the clothes we wear to the furniture we sit on.</p>\n<p><strong><a href=\"http://www.klru.org/schedule/episode/265206/\" target=\"_blank\">Home</a></strong> &#8211; <em>airs Aug. 9 at 8 pm<br />\n</em>Professor Mark Miodownik shows us what is so great about &#8220;stuff.&#8221; So many of the goods around us, which we likely take for granted, are revealed to be little pieces of domestic magic: everyday miracles. On the road and in the lab with explosive experiments, Mark reveals why the everyday and even the mundane is anything but.</p>\n<p><strong><a href=\"http://www.klru.org/schedule/episode/265207/\" target=\"_blank\">Away</a></strong> &#8211; <em>airs Aug. 16 at 8 pm<br />\n</em>Professor Mark Miodownik looks at how materials allow us to indulge our curiosity about the world, enabling us to go further and travel faster. He looks at how the bicycle suddenly stirred a national gene pool, why we should all be grateful for exploding glass and what levitation has to do with discovering your inner self.</p>\n<p>&nbsp;</p>\n"
+        },
+        "date": "2016-08-07T15:58:54",
+        "date_gmt": "2016-08-07T20:58:54",
+        "excerpt": {
+            "rendered": "<p>Demonstrating that the everyday and mundane are often anything but, the engrossing documentary Everyday Miracles reveals how raw materials are transformed into the objects that make modern life more comfortable. Over the course of this two-part program, host Mark Miodownik &hellip; <a href=\"http://www.klru.org/blog/2016/08/learn-about-everyday-miracles-on-klruq-89-816/\">more <span class=\"meta-nav\">&rarr;</span></a></p>\n"
+        },
+        "featured_media": 17395,
+        "format": "standard",
+        "guid": {
+            "rendered": "http://www.klru.org/?p=45995"
+        },
+        "id": 45995,
+        "link": "http://www.klru.org/blog/2016/08/learn-about-everyday-miracles-on-klruq-89-816/",
+        "modified": "2016-08-05T16:00:14",
+        "modified_gmt": "2016-08-05T21:00:14",
+        "ping_status": "closed",
+        "slug": "learn-about-everyday-miracles-on-klruq-89-816",
+        "sticky": false,
+        "tags": [
+            2719,
+            2738,
+            3251,
+            3466,
+            3467
+        ],
+        "title": {
+            "rendered": "Learn about Everyday Miracles on KLRUQ 8/9 &#038; 8/16"
+        },
+        "type": "post"
+    },
+    {
+        "_links": {
+            "about": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/users/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts"
+                }
+            ],
+            "https://api.w.org/attachment": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/media?parent=45546"
+                }
+            ],
+            "https://api.w.org/featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/media/12831"
+                }
+            ],
+            "https://api.w.org/term": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/categories?post=45546",
+                    "taxonomy": "category"
+                },
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/tags?post=45546",
+                    "taxonomy": "post_tag"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/comments?post=45546"
+                }
+            ],
+            "self": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45546"
+                }
+            ],
+            "version-history": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45546/revisions"
+                }
+            ]
+        },
+        "author": 40,
+        "categories": [
+            7,
+            55
+        ],
+        "comment_status": "closed",
+        "content": {
+            "rendered": "<p>Don&#8217;t miss a night of special programming on Q Night at the Movies!</p>\n<p><a href=\"http://www.klru.org/schedule/program/21843/\" target=\"_blank\"><strong>Science Goes to the Movies</strong></a> &#8216;<a href=\"http://www.klru.org/schedule/episode/274683/\" target=\"_blank\">Force Majeure And Rosewater</a>&#8216; &#8211; <em>airs at 7 pm<br />\n</em>Science Goes to the Movies looks at the Swedish film, Force Majeure and Jon Stewart&#8217;s Rosewater for a discussion on visceral fear. What does fear do to the brain, to the body and how does fear affect decision making? With guest journalist Ira Flatow, we consider the effects of fear on our political process.</p>\n<p><a href=\"http://www.klru.org/program/on-story/\" target=\"_blank\"><strong>On Story</strong></a> &#8216;<a href=\"http://www.klru.org/episode/on-story/better-call-saul-a-conversation-with-peter-gould/\" target=\"_blank\">Better Call Saul: A Conversation with Peter Gould</a>&#8216; &#8211; <em>airs at 7:30 pm<br />\n</em>Peter Gould, writer, producer, and director of Breaking Bad and co-creator of its spinoff Better Call Saul discusses shifting gears, schemes, and swindles within the world of Saul Goodman pre-Walter White.</p>\n<p><a href=\"http://www.klru.org/schedule/program/21316/\" target=\"_blank\"><strong>Corinth Films Collection</strong></a> &#8216;<a href=\"http://www.klru.org/schedule/episode/270949/\" target=\"_blank\">Kansas City Confidential</a>&#8216; &#8211; <em>airs at 8 pm<br />\n</em>A down-on-his-luck ex-GI (John Payne) finds himself framed for an armored car robbery. When he&#8217;s finally released for lack of evidence&#8211;after having been beaten up by the police&#8211;he sets out to discover who set him up, and why. The trail leads him into Mexico and a web of hired killers and corrupt cops.</p>\n<p><a href=\"http://www.klru.org/schedule/program/21316/\" target=\"_blank\"><strong>Corinth Films Collection</strong></a> &#8216;<a href=\"http://www.klru.org/schedule/episode/270953/\" target=\"_blank\">Scarlet Street</a>&#8216; &#8211; <em>airs at 9:45 pm<br />\n</em>When a man in mid-life crisis (Edward G. Robinson) befriends a young woman, her venal fianc\u00e9 persuades her to con him out of some of the fortune she thinks he has.</p>\n"
+        },
+        "date": "2016-08-05T16:04:15",
+        "date_gmt": "2016-08-05T21:04:15",
+        "excerpt": {
+            "rendered": "<p>Don&#8217;t miss a night of special programming on Q Night at the Movies! Science Goes to the Movies &#8216;Force Majeure And Rosewater&#8216; &#8211; airs at 7 pm Science Goes to the Movies looks at the Swedish film, Force Majeure and &hellip; <a href=\"http://www.klru.org/blog/2016/08/q-night-at-the-movies-86/\">more <span class=\"meta-nav\">&rarr;</span></a></p>\n"
+        },
+        "featured_media": 12831,
+        "format": "standard",
+        "guid": {
+            "rendered": "http://www.klru.org/?p=45546"
+        },
+        "id": 45546,
+        "link": "http://www.klru.org/blog/2016/08/q-night-at-the-movies-86/",
+        "modified": "2016-08-08T12:14:46",
+        "modified_gmt": "2016-08-08T17:14:46",
+        "ping_status": "closed",
+        "slug": "q-night-at-the-movies-86",
+        "sticky": false,
+        "tags": [
+            290,
+            2741,
+            3080,
+            3306,
+            3402
+        ],
+        "title": {
+            "rendered": "Swindles &#038; Schemes on Q Night at the Movies 8/6"
+        },
+        "type": "post"
+    },
+    {
+        "_links": {
+            "about": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/users/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts"
+                }
+            ],
+            "https://api.w.org/attachment": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/media?parent=45976"
+                }
+            ],
+            "https://api.w.org/featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/media/17395"
+                }
+            ],
+            "https://api.w.org/term": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/categories?post=45976",
+                    "taxonomy": "category"
+                },
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/tags?post=45976",
+                    "taxonomy": "post_tag"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/comments?post=45976"
+                }
+            ],
+            "self": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45976"
+                }
+            ],
+            "version-history": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45976/revisions"
+                }
+            ]
+        },
+        "author": 40,
+        "categories": [
+            38,
+            2859
+        ],
+        "comment_status": "closed",
+        "content": {
+            "rendered": "<p>Join KLRUQ for a day packed with special programming featuring in-depth information on war with <strong><a href=\"http://www.klru.org/schedule/program/22009/\" target=\"_blank\">Silent War</a></strong> and <strong><a href=\"http://www.klru.org/schedule/program/20568/\" target=\"_blank\">Weapons of World War II</a></strong>.</p>\n<p>Silent War &#8216;Know Your Enemy&#8217; &#8211; airs at 3 pm</p>\n<p>Silent War &#8216;The Russians Are Coming&#8217; &#8211; airs at 3:55 pm<br />\nFor the second half of the 20th century, the world&#8217;s most powerful nations were engaged in an intense struggle for political and territorial supremacy. As the USA and the then USSR developed huge arsenals of nuclear weapons, they and their allies would regularly bring the world close to annihilation, yet &#8211; incredibly &#8211; these highly dangerous military stand-offs often happened in total secrecy: underwater. This eye-opening two-part series tells the compelling story of US, UK and Russian submarine warfare.</p>\n<p>Weapons Of World War II &#8216;<a href=\"http://www.klru.org/schedule/episode/255763/\" target=\"_blank\">Midget Submarines</a>&#8216; &#8211; <em>airs at 4:50 pm<br />\n</em>From attacks on Pearl Harbor and Sydney Harbour, to the British Mediterranean Fleet and the Tirpitz, midget submarines played their part in some of the most gripping stories of the war. This programme recalls the heroic encounters of the men who piloted these midget craft towards their giant quarries.</p>\n<p>Weapons Of World War II &#8216;<a href=\"http://www.klru.org/schedule/episode/255765/\" target=\"_blank\">Aircraft Carriers</a>&#8216; &#8211; <em>airs at 5:15 pm<br />\n</em>Giant aircraft carriers dominated the Pacific War between Japan and the USA. Pearl Harbor was launched to destroy US carriers but failed, while the battle of Midway &#8211; the turning point in the Pacific War &#8211; was won by US carriers delivering tremendous air strikes against Japanese battleships. This programme shows them in dramatic action.</p>\n<p>Weapons Of World War II &#8216;<a href=\"http://www.klru.org/schedule/episode/255768/\" target=\"_blank\">Battleships</a>&#8216; &#8211; <em>airs at 5:40 pm<br />\n</em>At the beginning of World War II, battleships were seen as the key weapon at sea, their huge firepower dominated the waves but over the next six years their vulnerability was exposed by the submarine and aircraft. This programme looks at the great clashes of the ships such as Bismarck and King George V and the way in which the battleships&#8217; role changed to that of shore bombardment and escort work.</p>\n"
+        },
+        "date": "2016-08-05T16:03:06",
+        "date_gmt": "2016-08-05T21:03:06",
+        "excerpt": {
+            "rendered": "<p>Join KLRUQ for a day packed with special programming featuring in-depth information on war with Silent War and Weapons of World War II. Silent War &#8216;Know Your Enemy&#8217; &#8211; airs at 3 pm Silent War &#8216;The Russians Are Coming&#8217; &#8211; &hellip; <a href=\"http://www.klru.org/blog/2016/08/examine-the-silent-war-on-klruq-87/\">more <span class=\"meta-nav\">&rarr;</span></a></p>\n"
+        },
+        "featured_media": 17395,
+        "format": "standard",
+        "guid": {
+            "rendered": "http://www.klru.org/?p=45976"
+        },
+        "id": 45976,
+        "link": "http://www.klru.org/blog/2016/08/examine-the-silent-war-on-klruq-87/",
+        "modified": "2016-08-09T09:18:34",
+        "modified_gmt": "2016-08-09T14:18:34",
+        "ping_status": "closed",
+        "slug": "examine-the-silent-war-on-klruq-87",
+        "sticky": false,
+        "tags": [
+            2719,
+            2738,
+            3251,
+            3453,
+            3454
+        ],
+        "title": {
+            "rendered": "Examine the Silent War on KLRUQ  8/7"
+        },
+        "type": "post"
+    },
+    {
+        "_links": {
+            "about": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/users/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts"
+                }
+            ],
+            "https://api.w.org/attachment": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/media?parent=45978"
+                }
+            ],
+            "https://api.w.org/featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/media/17395"
+                }
+            ],
+            "https://api.w.org/term": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/categories?post=45978",
+                    "taxonomy": "category"
+                },
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/tags?post=45978",
+                    "taxonomy": "post_tag"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/comments?post=45978"
+                }
+            ],
+            "self": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45978"
+                }
+            ],
+            "version-history": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45978/revisions"
+                }
+            ]
+        },
+        "author": 40,
+        "categories": [
+            7,
+            30,
+            38
+        ],
+        "comment_status": "closed",
+        "content": {
+            "rendered": "<p>From the secrets of the dead to the ruthless murderer of Al Capone, we have a lineup of programs you don&#8217;t want to miss.</p>\n<p><a href=\"http://www.klru.org/schedule/episode/257578/\" target=\"_blank\"><strong>Al Capone: Icon</strong></a> &#8211; <em>airs at 6 pm<br />\n</em>The mention of Al Capone&#8217;s name sparks images of pinstripe suits and ruthless murders. More than 80 years after the height of his power, this program explores Capone&#8217;s enduring impact on American culture and learn why people are still so fascinated by this celebrity gangster.</p>\n<p><a href=\"http://www.klru.org/schedule/program/15339/\" target=\"_blank\"><strong>History Project</strong></a> &#8216;<a href=\"http://www.klru.org/schedule/episode/274407/\" target=\"_blank\">Beneath Alcatraz</a>&#8216; &#8211; <em>airs at 7 pm<br />\n</em>June 11, 1962, Alcatraz Federal Penitentiary, three prisoners &#8211; Frank Lee Morris, Clarence Anglin, and John Anglin &#8211; did the impossible. Desperate and dangerous, they escaped from Alcatraz prison. This has been an enduring historical mystery and we still don&#8217;t have the entire answer.</p>\n<p><a href=\"http://www.klru.org/program/secrets-of-the-dead/\" target=\"_blank\"><strong>Secrets of the Dead</strong></a> &#8216;<a href=\"http://www.klru.org/episode/secrets-of-the-dead/the-alcatraz-escape/\" target=\"_blank\">Alcatraz Escape</a>&#8216; &#8211; <em>airs at 8 pm<br />\n</em>The three convicts who escaped Alcatraz in rafts in 1962 were swept out to sea and drowned, according to conventional wisdom. Now, a team of scientists believes the escapees could have made it to dry land-but only if they left at a specific time.</p>\n<p><a href=\"http://www.klru.org/schedule/episode/256176/\" target=\"_blank\"><strong>Secrets of Underground London</strong></a> &#8211; <em>airs at 9 pm<br />\n</em>This program takes a chronological look at the natural and man-made wonders beneath London. It features a large section on the London Underground, how it was built, its use during World War II, the ghost stations and stories and the museum. The film also highlights the lost river fleet, the sewer system, the Brunel Tunnel and the Churchill War Rooms, to name a few.</p>\n"
+        },
+        "date": "2016-08-05T16:01:18",
+        "date_gmt": "2016-08-05T21:01:18",
+        "excerpt": {
+            "rendered": "<p>From the secrets of the dead to the ruthless murderer of Al Capone, we have a lineup of programs you don&#8217;t want to miss. Al Capone: Icon &#8211; airs at 6 pm The mention of Al Capone&#8217;s name sparks images &hellip; <a href=\"http://www.klru.org/blog/2016/08/crime-doesnt-pay-on-klruq-87/\">more <span class=\"meta-nav\">&rarr;</span></a></p>\n"
+        },
+        "featured_media": 17395,
+        "format": "standard",
+        "guid": {
+            "rendered": "http://www.klru.org/?p=45978"
+        },
+        "id": 45978,
+        "link": "http://www.klru.org/blog/2016/08/crime-doesnt-pay-on-klruq-87/",
+        "modified": "2016-08-08T12:15:12",
+        "modified_gmt": "2016-08-08T17:15:12",
+        "ping_status": "closed",
+        "slug": "crime-doesnt-pay-on-klruq-87",
+        "sticky": false,
+        "tags": [
+            2719,
+            1847,
+            3251,
+            3326,
+            3455,
+            3456
+        ],
+        "title": {
+            "rendered": "Crime doesn&#8217;t pay on KLRUQ 8/7"
+        },
+        "type": "post"
+    },
+    {
+        "_links": {
+            "about": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/types/post"
+                }
+            ],
+            "author": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/users/40"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts"
+                }
+            ],
+            "https://api.w.org/attachment": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/media?parent=45056"
+                }
+            ],
+            "https://api.w.org/featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/media/12935"
+                }
+            ],
+            "https://api.w.org/term": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/categories?post=45056",
+                    "taxonomy": "category"
+                },
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/tags?post=45056",
+                    "taxonomy": "post_tag"
+                }
+            ],
+            "replies": [
+                {
+                    "embeddable": true,
+                    "href": "http://www.klru.org/wp-json/wp/v2/comments?post=45056"
+                }
+            ],
+            "self": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45056"
+                }
+            ],
+            "version-history": [
+                {
+                    "href": "http://www.klru.org/wp-json/wp/v2/posts/45056/revisions"
+                }
+            ]
+        },
+        "author": 40,
+        "categories": [
+            30
+        ],
+        "comment_status": "closed",
+        "content": {
+            "rendered": "<p>On Sunday at 7 pm on <a href=\"http://www.klru.org/schedule/episode/277619/\" target=\"_blank\"><strong>Dancing On The Edge</strong></a>, learn why Lady Cremone becomes suspicious of Masterson&#8217;s offer of such a large reward and why Pamela decides to help Stanley and the band. As Julian&#8217;s behavior becomes more and more unbalanced, Masterson becomes ever more apprehensive.</p>\n<p>Next at 8 pm on <strong>Masterpiece Mystery!</strong> <a href=\"http://www.klru.org/schedule/episode/279761/\" target=\"_blank\"><strong>One For Sorrow</strong></a>, learn if Lewis, who needs to prove himself to a new boss, and Hathaway can establish a connection between the remains of a body discovered in a well and the death of a young artist. Hathaway finally gets to know his estranged father.</p>\n<p>Tune into <a href=\"http://www.klru.org/schedule/episode/277659/\" target=\"_blank\"><strong>Tunnel</strong></a> at 9:30 pm as the French police capture but then lose the prime suspect. Then, their lead detective goes missing. Though things eventually start to fall into place, something is troubling Karl.</p>\n<p>On Monday, see memorable items appraised in San Diego. Highlights include a Dr. Seuss &#8220;Kangaroo Bird,&#8221; a Tiffany &amp; Co. yellow diamond pendant and a 1781 George Washington lifetime print. Find out which treasure has a $75,000 value increase! Watch at 7 pm on <a href=\"http://www.klru.org/schedule/episode/272915/\" target=\"_blank\"><strong>Antiques Roadshow</strong></a>.</p>\n<p>Follow JFK&#8217;s rise to power from his birth to his election as president in 1960 &#8211; the youngest man ever to be elected to the office. With illuminating interviews from family members including sister Jean Kennedy Smith, niece Kathleen Kennedy Townsend, historian Robert Dallek and author Robert Caro, this episode offers new insight into Kennedy&#8217;s early years, from his transformation from a sickly youth to Washington&#8217;s most eligible bachelor to the nation&#8217;s president. See it at 8 pm on <a href=\"http://www.klru.org/schedule/episode/250060/\" target=\"_blank\"><strong>JFK: American Experience</strong></a>.</p>\n<p>Later at 10 pm, <a href=\"http://www.klru.org/schedule/episode/275934/\" target=\"_blank\"><strong>Far Afield: A Conversation Love Story</strong></a>\u00a0\u00a0is a documentary about conservation icon and author Bert Raynes. It&#8217;s also a three-part love story involving Bert and his wife Meg, their love for Jackson Hole, Wyo., and their love for the environment.</p>\n<p>On Tuesday, watch <a href=\"http://www.klru.org/schedule/episode/268190/\" target=\"_blank\"><strong>JFK &amp; LBJ: A Time For Greatness</strong></a> at 7 pm.\u00a0President LBJ is chiefly remembered for the Vietnam War. But 50 years ago, he engineered two of the most important laws Congress ever passed, the 1964 Civil Rights Act and the 1965 Voting Rights Act. This special examines how LBJ transformed America.</p>\n<p>Next, follow Kennedy into the White House through his assassination and the unfulfilled promise of his presidency. Offering fresh assessments of the successes and failures of his tenure, this episode features frank appraisals by administration officials, including John Siegenthaler, Thomas Hughes and Harris Wofford, civil rights leaders Andrew Young and Julian Bond, and journalists Evan Thomas and Richard Reeves. Watch at 8 pm Tuesday on <a href=\"http://www.klru.org/schedule/episode/250061/\" target=\"_blank\"><strong>JFK: American Experience</strong></a> part two.</p>\n<p>Later at 10 pm Tuesday on <a href=\"http://www.klru.org/schedule/episode/273626/\" target=\"_blank\"><strong>Cactus Jack: Lone Star on Capitol Hill</strong></a>, reveals the rollicking saga of one of the most powerful but often forgotten figures in U.S. history-John Nance &#8220;Cactus Jack&#8221; Garner (1868-1967). The program charts Garner&#8217;s extraordinary life, from his humble roots in Blossom Prairie, Texas, to his 38-year tenure on Capitol Hill where he wielded power as Speaker of the House during the darkest days of the Great Depression.</p>\n<p>On Wednesday, revisit the presidency of Lyndon B. Johnson who used his mastery of the legislative process to shepherd a collection of progressive programs only to have his visions of a Great Society swallowed up in the quagmire of Vietnam. Watch at 7 pm on <a href=\"http://www.klru.org/schedule/episode/188766/\" target=\"_blank\"><strong>LBJ: American Experience</strong></a>. Next at 8 pm, tune into part two of <a href=\"http://www.klru.org/schedule/episode/279397/\" target=\"_blank\"><strong>LBJ: American Experience</strong></a>.</p>\n<p>On Thursday, examine the complex life and career of Richard Nixon, whose legacy includes both ending America&#8217;s involvement in Vietnam and the Watergate scandal. Forced to resign, his administration did much to erode Americans&#8217; faith in their government. Watch at 7 pm on <a href=\"http://www.klru.org/schedule/episode/279398/\" target=\"_blank\"><strong>Nixon: American Experience</strong></a>.</p>\n<p>At 10 pm, tune into <a href=\"http://www.klru.org/episode/program-tax/granbury-tx/\" target=\"_blank\"><strong>The Daytripper</strong></a>.\u00a0Chet finds heaps of history, including the alleged grave of Jesse James and the story of John Wilkes Booth hiding out here after his assassination of the president. He visits a Trappist-style cheesemaker, a sandy beach in the middle of town, and eats fish tacos beside a lake-front marina.</p>\n<p>On Friday, learn which of the three finalists will ace the Signature challenge &#8211; filled iced buns; conquer the Technical &#8211; pastry they&#8217;ve all struggled with; and master the Showstopper &#8211; a classic British cake in a multi-layered presentation. Watch at 8 pm on <a href=\"http://www.klru.org/schedule/episode/280104/\" target=\"_blank\"><strong>Great British Baking Show</strong></a>.</p>\n<p>Call this old age, extreme edition: Seven players with 620 years between them compete in the Over 80 World Table Tennis Championships in China&#8217;s Inner Mongolia. British players Terry, who has been given a week to live, and Les, a weightlifter and poet, are going for the gold. Inge, from Germany, has used table tennis to paddle her way out of dementia. And Texan Lisa, is playing for the first time. Watch at 9 pm Friday on <a href=\"http://www.klru.org/episode/pov/ping-pong/\" target=\"_blank\"><strong>POV</strong></a>.</p>\n<p>Enjoy a career-spanning performance by R&amp;B icon Ms. Lauryn Hill in a rare television appearance. The Grammy-winning singer and songwriter performs a set of solo hits, new songs and Fugees classics. Tune it at 10 pm Friday on <a href=\"http://www.klru.org/schedule/episode/278501/\" target=\"_blank\"><strong>Austin City \u00a0Limits</strong></a>.</p>\n<p>On Saturday at noon on <a href=\"http://www.klru.org/episode/program-tax/small-space-design/\" target=\"_blank\"><strong>Central Texas Gardner</strong></a>, Ravenscourt Landscaping &amp; Design puts an artful stamp on postage stamp-\u00adsized spaces. On tour, Austin Delta Dawn designer Leah Churner styles apartment balconies and patios with clever ideas on a budget for privacy and indoor/outdoor connection. Daphne\u2019s Plant of the Week, native Salvia coccinea, attracts hummingbirds, bees, and butterflies in semi\u00ad-shade, even in containers.</p>\n<p>Explore contemporary California rock with Los Lobos and Thao &amp; The Get Down Stay Down. Veteran rockers Los Lobos perform a 40th anniversary career overview. Lively folk rockers Thao &amp; The Get Down Stay Down play songs from their LP We the Common. At 7 pm Saturday on <a href=\"http://www.klru.org/episode/austin-city-limits/los-lobos-thao-the-get-down-stay-down/\" target=\"_blank\"><strong>Austin City Limits</strong></a>.</p>\n<p>&nbsp;</p>\n"
+        },
+        "date": "2016-08-04T22:15:11",
+        "date_gmt": "2016-08-05T03:15:11",
+        "excerpt": {
+            "rendered": "<p>On Sunday at 7 pm on Dancing On The Edge, learn why Lady Cremone becomes suspicious of Masterson&#8217;s offer of such a large reward and why Pamela decides to help Stanley and the band. As Julian&#8217;s behavior becomes more and &hellip; <a href=\"http://www.klru.org/blog/2016/08/highlights-august-7-13/\">more <span class=\"meta-nav\">&rarr;</span></a></p>\n"
+        },
+        "featured_media": 12935,
+        "format": "standard",
+        "guid": {
+            "rendered": "http://www.klru.org/?p=45056"
+        },
+        "id": 45056,
+        "link": "http://www.klru.org/blog/2016/08/highlights-august-7-13/",
+        "modified": "2016-08-04T22:15:11",
+        "modified_gmt": "2016-08-05T03:15:11",
+        "ping_status": "closed",
+        "slug": "highlights-august-7-13",
+        "sticky": false,
+        "tags": [
+            2719
+        ],
+        "title": {
+            "rendered": "Highlights August 7-13"
+        },
+        "type": "post"
+    }
+]

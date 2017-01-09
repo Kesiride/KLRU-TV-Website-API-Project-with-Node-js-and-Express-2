@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <style>
+    ol { list-style: decimal; }
+    </style>
+  </head>
+  <body>
+    <% include templates/header.ejs%>
+    <h1><%= title %></h1>
+    <div class = "container">
+      <ol>
+                 <% for(var i = 0; i < atx.length; i++){ %>
+                         <li>
+                            show: <%= atx[i].title %> - <%= atx[i].nola_root %> - <%= atx[i].resource_uri %>
+                         </li>
+                 <% }%>
+      </ol>
+  </body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> <%= title%></title>
+		<link rel='stylesheet' href='/stylesheets/style.css'/>
+		<script
+		     src="//code.jquery.com/jquery-3.1.1.min.js"
+		     integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+		     crossorigin="anonymous">
+		</script>
+		<script> window.jQuery || document.write('<script src="/javascripts/lib/jquery-3.1.1.min.js"><\/script>');</script>
+		<style>
+		  ol { list-style: decimal; }
+		</style>
+	</head>
+	<body>
+
+	     <a href = '/local-productions'> Back To Local Productions </a> |
+	     <a href = '/local-productions<%= titlePath%>'> <%= title%> Home </a> |
+	     <a href = '/local-productions<%= titlePath%>/about'> About <%= title%></a><br/>
+	    <center>  <h1> <%= title%> </h1> </center>
+	    
+	    <script>
+	    function show(name, num){
+	       var subUrl = 'http://162.243.167.50:3003/local-productions'
+	       var url = subUrl + name + '/singlePreview/' + num; 
+	       $("#previews").load(url);
+               $(".single-preview").show(1000); 
+
+	       $("button").click(function(){
+	          $("#preview").hide(1000);
+               });
+	    }; 
+	    
+	    </script>
+	    <div class = "container">
+              <div class = "post-list">
+		  <% imageData.forEach(function(name, num){%>
+		  <div class = "post">
+                    <div class = "post-content">
+                     <a onClick = "show('<%=titlePath%>', '<%=num%>')"><h6><center> <%= imageData[num].title%> </center></h6>
+			<img src = "<%= imageData[num].associated_images[0].url%>">
+                      </a>
+                      <center> <%= imageData[num].short_description%> </center>
+                    </div>
+		  </div>
+		  <%});%>
+              </div>
+            </div>
+	  
+	    <div id = "previews"></div>
+	</body>
+</html>

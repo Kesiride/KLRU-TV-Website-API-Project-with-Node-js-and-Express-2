@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <style>
+    ol { list-style: decimal; }
+    </style>
+  </head>
+  <body>
+    <% include templates/header2.ejs%>
+    <h1><%= title %></h1>
+ 
+  <div class = "container">
+    <div class = "post-list">
+     <% for(var k = 0; k < data.length; k++){ %>
+	 <div class = "post">
+           <div class = "post-content">
+            <h5> <%= data[k].title %> </h5>
+	    <img src = "<%= data[k].associated_images[0].url %>" alt = "thumbnail">
+	    <%= data[k].short_description%>
+           </div> 
+	 </div>
+     <%}%>
+    </div>
+  </div>
+  </body>
+</html>
